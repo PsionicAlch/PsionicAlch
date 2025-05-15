@@ -3,6 +3,7 @@
 > "There is no good or evil, only intent and consequence."
 
 Hi there 👋  
+
 I'm **Jean-Jacques**, a South African developer currently living in France, working under the banner of **PsionicAlch** as a freelancer and consultant. I've been programming since 2018, and focused on **Golang** development since 2020.
 
 Though I've jumped around from web to mobile to game dev over the years, it’s given me a broad understanding of the software landscape and helped me build versatile, solid systems. These days, I mostly build backend-heavy platforms with Go, usually with a sprinkle of Docker, Linux, SQLite, and the occasional frontend flair (ReactJS, SvelteKit, etc.).
@@ -13,7 +14,7 @@ Though I've jumped around from web to mobile to game dev over the years, it’s 
 
 - **Languages**: Go (primary), JavaScript/TypeScript, PHP, Python, C++, Haxe, C#, Java  
 - **Frameworks/Tools**: SvelteKit, Laravel, ReactJS, VueJS, React Native, Docker  
-- **Databases**: SQLite, PostgreSQL (ish), MySQL (ish)  
+- **Databases**: SQLite, PostgreSQL, MySQL, SurrealDB, MongoDB  
 - **Other**: OpenAI API, Linux-first mindset
 
 ---
